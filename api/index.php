@@ -827,7 +827,7 @@ footer {
     </p>
     <div class="destination__grid">
       <div class="destination__card">
-        <img src="assets/masjidHaram.jpg" alt="Masjidil Haram" />
+        <img src="api/assets/masjidHaram.jpg" alt="Masjidil Haram" />
         <div class="destination__card__details">
           <div>
             <h4>Masjidil Haram</h4>
@@ -840,7 +840,7 @@ footer {
         </div>
       </div>
       <div class="destination__card">
-        <img src="assets/nabawi.jpg" alt="Masjid Nabawi" />
+        <img src="api/assets/nabawi.jpg" alt="Masjid Nabawi" />
         <div class="destination__card__details">
           <div>
             <h4>Masjid Nabawi</h4>
@@ -853,7 +853,7 @@ footer {
         </div>
       </div>
       <div class="destination__card">
-        <img src="assets/JabalRahmah.jpg" alt="Jabal Rahmah" />
+        <img src="api/assets/JabalRahmah.jpg" alt="Jabal Rahmah" />
         <div class="destination__card__details">
           <div>
             <h4>Jabal Rahmah</h4>
